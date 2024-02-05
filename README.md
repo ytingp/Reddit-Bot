@@ -18,6 +18,6 @@ Python
 - Pandas
 - itertools
 
-### (Code)[]
+### [Code](https://github.com/ytingp/Reddit-Bot/blob/main/project.pdf)
 
   
